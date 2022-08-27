@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation,MissingTranslation">
+    <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
+        <item>https://1.bp.blogspot.com/-5Sl2xCOFcXI/YR6ftgMxpHI/AAAAAAAAdp4/ELSV-dggGLMwi7JmaonzU6U1NWg-XrLkQCLcBGAsYHQ/s320/20210626_115013.png</item>
+        <item>https://1.bp.blogspot.com/-b1zld8KTTSw/YRz5IvGM5SI/AAAAAAAAdpU/pBskvC4SMcQaSx_O9jk2L_NDZ666I_UDgCLcBGAsYHQ/s2048/IMG_20210428_092409_502.png</item>
+    </string-array>
+    <string-array name="credits_titles">
+        <item>Beehomie</item>
+        <item>Bhaskar</item>
+    </string-array>
+    <string-array name="credits_descriptions">
+        <item>Takes home screen customization in another level</item>
+        <item>I made these Widgets</item>
+    </string-array>
+    <string-array name="credits_buttons">
+        <item>Instagram|Website|Checkout More apps</item>
+        <item>Telegram|Twitter</item>
+    </string-array>
+    <string-array name="credits_links">
+        <item>https://www.instagram.com/beehom.ie/|https://beehomie.blogspot.com/|https://play.google.com/store/apps/dev?id=6486116047942427336</item>
+        <item>https://telegram.me/iammrbhaskar|https://twitter.com/iammrbhaskar</item>
+    </string-array>
+</resources>
