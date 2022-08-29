@@ -27,6 +27,7 @@ This app is made using [Kuper Dashboard](https://github.com/jahirfiquitiva/Kuper
 
 Every one can use this weather komponent with no issues until someone don't give credit to this repo or the creator.
 fell free to use this in any of your projects - Free + commercial.
+# You have to give full credits to the creator to use this icons.
 
-If you liked this project fell free to donate;
+**If you liked this project fell free to donate;** Download from Play Store then you can donate from there.
 
